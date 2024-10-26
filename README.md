@@ -29,5 +29,5 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
               
               
               
-              </ul>
+ </ul>
 
