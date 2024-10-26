@@ -10,45 +10,24 @@
 My Profile :- https://menula-de-silva.glitch.me/
 
 <h3>My Learning Path</h3>
--Dp Coding School
-I Followed 325 Projects In Dp Coding School.
--Dp IT Campus
-I Followed Dp AI Robot,Wordpress And Javascript Course.
--Dp Sillicon Valley
-I Followed :-
-Angluar
-React
-PHP
-Figma
-UI/UX Development.
--University Of Moratuwa(UOM)
-I Followed Web Design For Beginners
-Web Development-2(FRONT-END-DEVELOPMENT)
-Python For Beginners.
--Arduino Course
-I Followed Robotics For Kids Course STEM Acadamy In India.
--I Followed These Courses
-Alison :-
-* Simple Game Using HTML5 And Javascript
-* Modern Web Design Using HTML And CSS
-* Create Responsive Web Using Bootstrap
-* Introduction To PHP
-* Introduction TO Wordpress
-Great Learning :-
-* Introduction To Web Designing
-* Python Fundamentals For Beginners
-Code.org :-
-* The Hour Of Code(Computer Science)
-* The Hour Of Code (AI Completion)
-* The Hour Of Code (Minecraft)
-Codingal :-
-* Create A Simple Scratch Game
-E Acadamy :-
-* Fundamentals Of 5G Technology
-* Earn Money Online
-* Microsoft Office Word 2013
-Coursera :-
-* Create Your First Python Program From UST
-Diploma
-Alison - Diploma In HTML5,CSS3 And Javascript.
+<ul>
+                <li><span>Dp Coding School</span><br>I Followed 325 Projects In Dp Coding School.</li>
+                <li><span>Dp IT Campus</span><br>I Followed Dp AI Robot,Wordpress And Javascript Course.</li>
+                 <li><span>Dp Sillicon Valley</span><br>I Followed :-<br><ul>
+                   
+Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
+                <li><span>University Of Moratuwa(UOM)</span><br> I Followed Web Design For Beginners<br>Web Development-2(FRONT-END-DEVELOPMENT)<br> Python For Beginners.</li>
+                  <li><span>Arduino Course</span><br>I Followed Robotics For Kids Course STEM Acadamy In India.</li>
+              <li><span>I Followed These Courses</span></li> 
+                <li><b>Alison :-</b> <br>* Simple Game Using HTML5 And Javascript <br>* Modern Web Design Using HTML And CSS<br>* Create Responsive Web Using Bootstrap <br>* Introduction To PHP <br>* Introduction TO Wordpress</li>            
+                <li><b>Great Learning :- </b><br>* Introduction To Web Designing <br>* Python Fundamentals For Beginners</li>
+                <li><b>Code.org :- </b><br>* The Hour Of Code(Computer Science) <br>* The Hour Of Code (AI Completion) <br>* The Hour Of Code (Minecraft)</li>
+                <li><b>Codingal :-</b><br>* Create A Simple Scratch Game</li>
+                <li><b>E Acadamy :- </b><br>* Fundamentals Of 5G Technology <br>* Earn Money Online <br>* Microsoft Office Word 2013</li>
+                <li><b>Coursera :- </b><br>* Create Your First Python Program From UST</li>
+             <li><span><b>Diploma</b></span><br>Alison - Diploma In HTML5,CSS3 And Javascript.</li>
+              
+              
+              
+              </ul>
 
