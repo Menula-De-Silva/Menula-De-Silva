@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&hide_progress=false&theme=tokyonight)
 
 
 
