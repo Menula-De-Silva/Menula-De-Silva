@@ -11,6 +11,15 @@
 - 📫 Follow Me To Get Notifications
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=compact&theme=dark)
+
+
+
 <button >My Profile :- <a link="https://menula-de-silva.glitch.me/" href="https://menula-de-silva.glitch.me/">My Protfolio Website</a></button>
 
 <h3 style="color:orange">My Learning Path</h3>
@@ -37,11 +46,7 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 
 </html>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=compact&theme=dark)
 
 
 
