@@ -19,8 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=compact&theme=dark)
 
-[![Build status](badge)](link)
-[![Code coverage](badge)](link)
+
 
 <img align="right" alt="Coding" width="400" src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif">
 
