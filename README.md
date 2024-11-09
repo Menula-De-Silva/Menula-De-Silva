@@ -1,9 +1,9 @@
 
 <h1><center>My Profile</center></h1>.
-ツ Hello, I'm [Menula De Silva]
+<h1>ツ Hello, I'm Menula De Silva </h1>
 
 
-- 👋 Hi, I’m Menula De Silva
+- 👋 ツ Hi, I’m Menula De Silva
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning in school
 - 🧒 I Am 12 Years Old Student
