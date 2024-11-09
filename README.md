@@ -37,11 +37,11 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 
 </html>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=compact&theme=dark)
 
 
 
