@@ -19,6 +19,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&hide_progress=false&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=pie&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif">
