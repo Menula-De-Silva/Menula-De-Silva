@@ -51,7 +51,8 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 
 
 ⭐ **Total Stars Earned:** 135  
-💬 **Total Commits (2024):** 6 
+💬 **Total Commits (2024):** 17 
+
 🔧 **Total PRs:** 11  
 🚨 **Total Issues:** 4  
 
