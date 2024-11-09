@@ -3,6 +3,7 @@
 <h1>ツ Hello, I'm Menula De Silva </h1>
 
 
+
 - 👋 ツ Hi, I’m Menula De Silva
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning in school
@@ -10,7 +11,7 @@
 - 🏡 My Location Is https://maps.app.goo.gl/BKwX7qEzyAAHvxvZ8
 - 📫 Follow Me To Get Notifications
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
-
+<br><br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=dark)
 
@@ -73,13 +74,28 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 
 </html>
 
+<h1>Contact Me</h1>
+<ul>
+  <li>Email :- 
+    <ul>
+      <li>rusirunavanjaya2004@gmail.com</li>
+      <li>menuladesilva2008@gmail.com</li>
+      <li>devmenula@gmail.com</li>
+  </ul>
+  </li>
+  <li>Phone :-
+    <ul>
+      <li>Whatsapp : +94 70 189 3294</li>
+      <li>Phone : 070 059 8458</li>
+    </ul>
+  </li>
+</ul>
 
 
+<h1>Overview </h1>
 
-
-⭐ **Total Stars Earned:** 135  
-💬 **Total Commits (2024):** 17 
-
-🔧 **Total PRs:** 11  
-🚨 **Total Issues:** 4  
+<p>⭐ <b>Total Stars Earned:</b> 135  </p>
+<p>💬 <b>Total Commits (2024):</b> 17 </p>
+<p>🔧 <b>Total PRs:</b> 11  </p>
+<p>🚨 <b>Total Issues:</b> 4  </p>
 
