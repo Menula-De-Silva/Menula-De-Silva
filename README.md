@@ -94,8 +94,8 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 
 <h1>Overview </h1>
 
-<p>⭐ <b>Total Stars Earned:</b> 135  </p>
-<p>💬 <b>Total Commits (2024):</b> 17 </p>
-<p>🔧 <b>Total PRs:</b> 11  </p>
-<p>🚨 <b>Total Issues:</b> 4  </p>
+<p>⭐ <b>Total Stars Earned:</b> 00 </p>
+<p>💬 <b>Total Commits (2024):</b> 24 </p>
+<p>🔧 <b>Total PRs:</b> 01  </p>
+<p>🚨 <b>Total Issues:</b> 01  </p>
 
