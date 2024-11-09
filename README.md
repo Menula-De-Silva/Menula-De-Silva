@@ -1,5 +1,6 @@
 
 <h1><center>My Profile</center></h1>.
+ツ Hello, I'm [Menula De Silva]
 
 
 - 👋 Hi, I’m Menula De Silva
@@ -35,3 +36,17 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
  </ul>
 
 </html>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+
+
+⭐ **Total Stars Earned:** 135  
+💬 **Total Commits (2024):** 6 
+🔧 **Total PRs:** 11  
+🚨 **Total Issues:** 4  
+
