@@ -13,7 +13,7 @@
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
 <br><br><br>
 
-![Menula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=radical)
+![Menula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menule-Silva&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
 
