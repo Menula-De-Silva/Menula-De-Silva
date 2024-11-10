@@ -13,6 +13,17 @@
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
 <br><br><br>
 
+![Menula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&hide_progress=false&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=pie&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
 
 
 
