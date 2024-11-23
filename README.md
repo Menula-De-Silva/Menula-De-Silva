@@ -20,6 +20,13 @@
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
 <br><br><br>
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Menula-De-Silva&style=for-the-badge&color=00ff00" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Menula-De-Silva?style=for-the-badge&color=00ff00" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Menula-De-Silva?style=for-the-badge&color=00ff00" alt="Stars" />
+</div>
+
 ![Menula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
