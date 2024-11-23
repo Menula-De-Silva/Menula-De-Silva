@@ -39,6 +39,17 @@
 
 
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Menula-De-Silva&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+</div>
+
+## 💻 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=angular,arduino,bootstrap,css,dart,discord,express,figma,firebase,flutter,github,html,java,js,jquery,mysql,nodejs,php,postman,py,r,react,threejs,unity,wordpress,&perline=10&theme=dark)
+
+<br><br><br><br>
+
 
 <img align="right" alt="Coding" width="400" src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif">
 
