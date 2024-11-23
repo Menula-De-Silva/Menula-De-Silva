@@ -6,10 +6,13 @@
 
 <h1>ツ Hello, I'm Menula De Silva </h1>
 
+<div align="center">
+  <img height="150" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"/>
+</div>
 
 
 - 👋 ツ Hi, I’m Menula De Silva
-- 👀 I’m interested in computing
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning in school
 - 🧒 I Am 12 Years Old Student
 - 🏡 My Location Is https://maps.app.goo.gl/BKwX7qEzyAAHvxvZ8
