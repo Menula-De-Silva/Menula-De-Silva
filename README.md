@@ -46,7 +46,7 @@
 
 ## 💻 My Skills
 
-![Tech Stack](https://skillicons.dev/icons?i=angular,arduino,bootstrap,css,dart,discord,express,figma,firebase,flutter,github,html,java,js,jquery,mysql,nodejs,php,postman,py,r,react,threejs,unity,wordpress,&perline=10&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=angular,arduino,bootstrap,css,dart,ts,express,figma,firebase,flutter,github,html,java,js,jquery,mysql,nodejs,php,postman,py,r,react,threejs,unity,wordpress,&perline=10&theme=dark)
 
 <br><br><br><br>
 
