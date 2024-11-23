@@ -51,31 +51,6 @@
 <br><br><br><br>
 
 
-<img align="right" alt="Coding" width="400" src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif">
-
-<h1>I Know This</h1>
-<ul>
-  <li><img width="50px" height="50px" alt="html" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuspKjKxXgABkRelAAyT-yjDbapueYgL-ag&s"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://w7.pngwing.com/pngs/185/655/png-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text-thumbnail.png"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-1713924793188.webp"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo415OW0D4O47Vp3PRlPuNo_-FXY3GGFBYeQ&s"></li>
-  <li><img width="50px" height="50px" alt="css" src="https://yt3.googleusercontent.com/y4J_Fs5ksRlxx6_LzT1VKxVqH_T8Vyn_RN_YYgLJhuMzBS5qxTgm7NlEcMkQd3hgCpfWtYcEUg=s900-c-k-c0x00ffffff-no-rj"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopA7FFmbqwEw4hT_0c2dswWepiRekm17JTw&s"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://static.ditdot.hr/images/info/ux-ui/ux-ui-small-00.png"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCeOWaQM9AjWbyyIh5ZhmXwl6J9uey0m4zQ&s"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlM9j0iuSIskKdqwu4exxAWkujmqbeiX9JWA&s"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4rgpxA1YtD_DXV4jqHjofv_XGtS5FTUy7g&s"></li> 
-  <li><img width="60px" height="50px" alt="css" src="https://banner2.cleanpng.com/20180504/ocw/avdmwp8cv.webp"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/0-nsbIYn7PGj9YK3dB.png?fit=1100%2C617&ssl=1"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg"></li>
-  <li><img width="60px" height="50px" alt="css" src="https://localo.com/assets/img/definitions/what-is-bootstrap.webp"></li>
-
-</ul>
-
 
 
 
