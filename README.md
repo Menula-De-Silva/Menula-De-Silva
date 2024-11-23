@@ -1,5 +1,9 @@
 
-<h1><center>My Profile</center></h1>.
+<h1><center>My Profile</center></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F70E&width=435&lines=Hi+%F0%9F%91%8B+I+Am+Menula+De+Silva;I+Am+A+Full+Stack+Developer;I+Am+A+Student+Of+ICET+Campus;I+Always+Learning+Something+%F0%9F%98%84%F0%9F%98%84;Follow+Me+To+Get+Notifications+%F0%9F%94%94++%F0%9F%94%94+)](https://git.io/typing-svg)
+
+
 <h1>ツ Hello, I'm Menula De Silva </h1>
 
 
