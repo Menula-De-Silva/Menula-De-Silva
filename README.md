@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/github/followers/Menula-De-Silva?style=for-the-badge&color=00ff00" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Menula-De-Silva?style=for-the-badge&color=00ff00" alt="Stars" />
 </div>
+<br><br><br><br><br><br>
 
 ![Menula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menula-De-Silva&show_icons=true&theme=radical)
 
