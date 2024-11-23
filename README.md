@@ -46,7 +46,7 @@
 
 ## 💻 My Skills
 
-![Tech Stack](https://skillicons.dev/icons?i=angular,arduino,bootstrap,css,dart,ts,express,figma,firebase,flutter,github,html,java,js,jquery,mysql,nodejs,php,postman,py,r,react,threejs,unity,wordpress,&perline=10&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=angular,arduino,bootstrap,css,dart,ts,express,figma,firebase,flutter,html,java,js,jquery,mysql,nodejs,php,postman,py,r,react,threejs,unity,wordpress,&perline=10&theme=dark)
 
 <br><br><br><br>
 
@@ -56,27 +56,7 @@
 
 <button >My Profile :- <a link="https://menula-de-silva.glitch.me/" href="https://menula-de-silva.glitch.me/">My Protfolio Website</a></button>
 
-<h3 style="color:orange">My Learning Path</h3>
-<ul>
-                <li><span>Dp Coding School</span><br>I Followed 325 Projects In Dp Coding School.</li>
-                <li><span>Dp IT Campus</span><br>I Followed Dp AI Robot,Wordpress And Javascript Course.</li>
-                 <li><span>Dp Sillicon Valley</span><br>I Followed :-<br><ul>
-                   
-Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
-                <li><span>University Of Moratuwa(UOM)</span><br> I Followed Web Design For Beginners<br>Web Development-2(FRONT-END-DEVELOPMENT)<br> Python For Beginners.</li>
-                  <li><span>Arduino Course</span><br>I Followed Robotics For Kids Course STEM Acadamy In India.</li>
-              <li><span>I Followed These Courses</span></li> 
-                <li><b>Alison :-</b> <br>* Simple Game Using HTML5 And Javascript <br>* Modern Web Design Using HTML And CSS<br>* Create Responsive Web Using Bootstrap <br>* Introduction To PHP <br>* Introduction TO Wordpress</li>            
-                <li><b>Great Learning :- </b><br>* Introduction To Web Designing <br>* Python Fundamentals For Beginners</li>
-                <li><b>Code.org :- </b><br>* The Hour Of Code(Computer Science) <br>* The Hour Of Code (AI Completion) <br>* The Hour Of Code (Minecraft)</li>
-                <li><b>Codingal :-</b><br>* Create A Simple Scratch Game</li>
-                <li><b>E Acadamy :- </b><br>* Fundamentals Of 5G Technology <br>* Earn Money Online <br>* Microsoft Office Word 2013</li>
-                <li><b>Coursera :- </b><br>* Create Your First Python Program From UST</li>
-             <li><span><b>Diploma</b></span><br>Alison - Diploma In HTML5,CSS3 And Javascript.</li>
-              
-              
-              
- </ul>
+
 
 </html>
 
@@ -98,10 +78,19 @@ Angluar<br>React<br>PHP<br>Figma<br>UI/UX Development. </ul></li>
 </ul>
 
 
-<h1>Overview </h1>
 
-<p>⭐ <b>Total Stars Earned:</b> 18 </p>
-<p>💬 <b>Total Commits (2024):</b> 56 </p>
-<p>🔧 <b>Total PRs:</b> 05  </p>
-<p>🚨 <b>Total Issues:</b> 09  </p>
+
+<br><br><br><br>
+
+
+
+<div align="center">
+  <img src="https://github.com/Menula-De-Siva/Menula-De-Siva/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+
+
+
+
 
