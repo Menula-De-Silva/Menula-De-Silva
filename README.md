@@ -38,6 +38,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/Menula-De-Silva/)
 
+[![Menula's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Menula-De-Silva)](https://github.com/Menula-De-Silva/)
+
 
 
 ## 🏆 GitHub Trophies
