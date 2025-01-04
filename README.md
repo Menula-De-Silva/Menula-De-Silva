@@ -35,9 +35,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=pie&theme=tokyonight)](https://github.com/Menula-De-Silva/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=pie&show_icons=true&theme=radical)](https://github.com/Menula-De-Silva/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical)](https://github.com/Menula-De-Silva/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/Menula-De-Silva/)
 
 
 ## 🏆 GitHub Trophies
