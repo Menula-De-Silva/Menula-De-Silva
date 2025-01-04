@@ -33,10 +33,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menula-De-Silva&theme=dark)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=donut-vertical&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menula-De-Silva&layout=pie&theme=tokyonight)](https://github.com/Menula-De-Silva/github-readme-stats)
-
 
 
 ## 🏆 GitHub Trophies
