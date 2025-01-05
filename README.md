@@ -42,9 +42,10 @@
 
 
 
+
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Menula-De-Silva&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Menula-De-Silva&theme=radical&frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 ## 💻 My Skills
