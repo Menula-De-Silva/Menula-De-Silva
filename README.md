@@ -16,7 +16,6 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning in school
 - 🧒 I Am 12 Years Old Student
-- 🏡 My Location Is https://maps.app.goo.gl/BKwX7qEzyAAHvxvZ8
 - 📫 Follow Me To Get Notifications
 - 🖥 My Ambition Is To Be A Software Engineer ( Full Stack Developer )
 <br><br><br>
